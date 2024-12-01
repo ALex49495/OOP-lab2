@@ -1,0 +1,11 @@
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\bin\Debug\net8.0-windows\HelloWPFApp.deps.json
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\bin\Debug\net8.0-windows\HelloWPFApp.dll
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\bin\Debug\net8.0-windows\HelloWPFApp.pdb
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\obj\Debug\net8.0-windows\HelloWPFApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\obj\Debug\net8.0-windows\HelloWPFApp.AssemblyInfoInputs.cache
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\obj\Debug\net8.0-windows\HelloWPFApp.AssemblyInfo.cs
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\obj\Debug\net8.0-windows\HelloWPFApp.csproj.CoreCompileInputs.cache
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\obj\Debug\net8.0-windows\HelloWPFApp.dll
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\obj\Debug\net8.0-windows\refint\HelloWPFApp.dll
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\obj\Debug\net8.0-windows\HelloWPFApp.pdb
+C:\Intel\OOPlab_2\HelloWPFApp\HelloWPFApp\obj\Debug\net8.0-windows\ref\HelloWPFApp.dll
